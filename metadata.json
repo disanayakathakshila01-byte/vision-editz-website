@@ -1,0 +1,8 @@
+{
+  "name": "Vision Editz",
+  "description": "Professional photo editing, AI photo enhancement, graphic design, logo design, banner design, social media designs, CV designs and creative digital solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
